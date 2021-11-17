@@ -16,7 +16,7 @@ btnCreate.onclick=function(){
     let email = inptEmail.value
     let password = inptPass.value
   
-let query = "INSERT INTO user (`first_name`,`last_name`,`street`,`city`,`state`,`email`,`password`) VALUES ('" + firstName + "', '" + lastName + "', '" + street + "', '" + city + "', '" + state + "', '" + email + "', '" + password + "')"
+let query = "INSERT INTO user (`first_name`,`last_name`,`street`,`city`,`state`,`email`,`password1`) VALUES ('" + firstName + "', '" + lastName + "', '" + street + "', '" + city + "', '" + state + "', '" + email + "', '" + password + "')"
     req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + databaseSchema + "&query=" + query)
 
     if (req.status == 200) { 
@@ -33,5 +33,5 @@ let query = "INSERT INTO user (`first_name`,`last_name`,`street`,`city`,`state`,
 }
 
 btnHome.onclick=function(){
-  ChangeForm(home)
+  ChangeForm(RyanLoginPage)
 }

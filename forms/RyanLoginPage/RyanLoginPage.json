@@ -14,99 +14,45 @@
       "!type": "External",
       "file": [
         "forms",
-        "samSignupPage",
+        "RyanLoginPage",
         "Elements",
-        "lblCreate.json"
+        "btnLogin.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "samSignupPage",
+        "RyanLoginPage",
         "Elements",
-        "inptFirst.json"
+        "btnSignUp.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "samSignupPage",
+        "RyanLoginPage",
         "Elements",
-        "inptLast.json"
+        "inptEmail1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "samSignupPage",
+        "RyanLoginPage",
         "Elements",
-        "inptStreet.json"
+        "inptPassword1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "samSignupPage",
+        "RyanLoginPage",
         "Elements",
-        "inptCity.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "samSignupPage",
-        "Elements",
-        "inptState.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "samSignupPage",
-        "Elements",
-        "inptEmail.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "samSignupPage",
-        "Elements",
-        "inptPass.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "samSignupPage",
-        "Elements",
-        "btnCreate.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "samSignupPage",
-        "Elements",
-        "btnHome.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "samSignupPage",
-        "Elements",
-        "lblMessage3.json"
+        "lblError.json"
       ]
     }
   ],
@@ -116,7 +62,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "samSignupPage",
+  "id": "RyanLoginPage",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

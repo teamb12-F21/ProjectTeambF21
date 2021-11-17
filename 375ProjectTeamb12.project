@@ -26,6 +26,14 @@
             "samSignupPage",
             "samSignupPage.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "RyanLoginPage",
+            "RyanLoginPage.json"
+          ]
         }
       ],
       "configxml": null,
@@ -47,7 +55,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "samSignupPage",
+      "firstform": "RyanLoginPage",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
