@@ -60,8 +60,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form2",
-            "Form2.json"
+            "Categories",
+            "Categories.json"
           ]
         }
       ],
@@ -84,7 +84,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "RyanLoginPage",
+      "firstform": "Categories",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",

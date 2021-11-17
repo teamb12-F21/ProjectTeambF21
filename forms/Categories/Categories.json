@@ -14,16 +14,16 @@
       "!type": "External",
       "file": [
         "forms",
-        "Form2",
+        "Categories",
         "Elements",
-        "inptAddCategories.json"
+        "inptAddCategory.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "Form2",
+        "Categories",
         "Elements",
         "btnAdd.json"
       ]
@@ -32,7 +32,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "Form2",
+        "Categories",
         "Elements",
         "drpCategories.json"
       ]
@@ -44,7 +44,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "Form2",
+  "id": "Categories",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
