@@ -63,6 +63,14 @@
             "Categories",
             "Categories.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "testAPI",
+            "testAPI.json"
+          ]
         }
       ],
       "configxml": null,
