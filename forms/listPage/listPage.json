@@ -14,27 +14,63 @@
       "!type": "External",
       "file": [
         "forms",
-        "testAPI",
+        "listPage",
         "Elements",
-        "btnGrocery.json"
+        "inptNewItem.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "testAPI",
+        "listPage",
         "Elements",
-        "txtGrocery.json"
+        "btnAdd1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "testAPI",
+        "listPage",
         "Elements",
-        "btnBack.json"
+        "taList.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "listPage",
+        "Elements",
+        "inptDescription.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "listPage",
+        "Elements",
+        "lblMessage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "listPage",
+        "Elements",
+        "btnShowList.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "listPage",
+        "Elements",
+        "btnGoBack.json"
       ]
     }
   ],
@@ -44,7 +80,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "testAPI",
+  "id": "listPage",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

@@ -1,7 +1,7 @@
 {
   "!type": "Form",
   "HTML": null,
-  "attributes": "",
+  "attributes": "Groceries\nErrands\nBills\nPets\nKids\nMisc\n",
   "background": "",
   "backgroundimage": "",
   "borderColor": "",
@@ -14,27 +14,63 @@
       "!type": "External",
       "file": [
         "forms",
-        "testAPI",
+        "thirdScreen",
         "Elements",
-        "btnGrocery.json"
+        "lblToDo.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "testAPI",
+        "thirdScreen",
         "Elements",
-        "txtGrocery.json"
+        "lblUsername.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "testAPI",
+        "thirdScreen",
         "Elements",
-        "btnBack.json"
+        "drpCats.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "thirdScreen",
+        "Elements",
+        "btnList.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "thirdScreen",
+        "Elements",
+        "btnMaps.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "thirdScreen",
+        "Elements",
+        "btnYelp.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "thirdScreen",
+        "Elements",
+        "BtnCal.json"
       ]
     }
   ],
@@ -44,7 +80,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "testAPI",
+  "id": "thirdScreen",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -53,7 +89,7 @@
   "onkeypress": "",
   "onresize": "",
   "onshow": "",
-  "openMode": "none",
+  "openMode": "block",
   "parentForm": "",
   "position": "absolute",
   "script": null,

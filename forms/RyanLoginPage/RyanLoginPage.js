@@ -18,5 +18,5 @@ let email = inptEmail1.value
 }   
 
 btnSignUp.onclick=function(){
-  ChangeForm(samSignupPage)
+  ChangeForm(thirdScreen)
 }

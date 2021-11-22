@@ -71,6 +71,22 @@
             "testAPI",
             "testAPI.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "listPage",
+            "listPage.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "thirdScreen",
+            "thirdScreen.json"
+          ]
         }
       ],
       "configxml": null,
