@@ -1,8 +1,4 @@
-let req = ""
-let query = ""
-let results = ""
-let netID = "agk72546"
-let pw = "Punahouio1"
+
 let schema = "375groupb12"
 let newItemAndDescription = []
 
