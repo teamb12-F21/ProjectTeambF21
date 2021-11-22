@@ -38,3 +38,7 @@ function onXHRLoad() {
     // if want to add to database call a function here that does that
     // addToDatabase()
 }
+
+btnBack.onclick=function(){
+  ChangeForm(thirdScreen)
+}
