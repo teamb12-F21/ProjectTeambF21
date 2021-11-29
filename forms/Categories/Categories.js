@@ -1,7 +1,7 @@
 let typeOfCategories = ["Business", "Homework", "Grocery", "Personal", "Home"]
 
 Categories.onshow = function() {
-  let temp = " "
+  let temp = ""
   drpCategories.clear()
   for (i = 0; i < typeOfCategories.length; i++) {
     temp = typeOfCategories[i]
