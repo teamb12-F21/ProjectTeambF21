@@ -1,6 +1,6 @@
 {
   "!type": "Label_bs4",
-  "appearance": "primary",
+  "appearance": "danger",
   "backgroundColor": "",
   "borderRadius": "0",
   "bottom": "auto",
@@ -13,13 +13,13 @@
   "expanded_pmp": null,
   "fontFamily": "",
   "fontSize": "",
-  "fontStyle": "",
-  "fontWeight": "",
-  "height": 36,
+  "fontStyle": "italic",
+  "fontWeight": "900",
+  "height": 31,
   "hidden": "",
   "id": "lblCreate",
   "labelStyle": "text",
-  "left": 49,
+  "left": 85,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 9,
+  "top": 7,
   "value": "Create an Account",
-  "width": 204
+  "width": 166
 }

@@ -2,7 +2,7 @@
   "!type": "Button_bs4",
   "ChangeForm": "",
   "appearance": " btn-secondary",
-  "backgroundColor": "",
+  "backgroundColor": "#800000",
   "badge": "",
   "badgeAppearance": " badge-info",
   "blockLevel": "",
@@ -24,12 +24,12 @@
   "fontWeight": "",
   "groupStyle": "",
   "grouping": "",
-  "height": "auto",
+  "height": "100",
   "hidden": "",
   "icon": "",
   "iconTitle": "",
   "id": "btnList",
-  "left": 53,
+  "left": 34,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 129,
+  "top": 121,
   "value": "List",
-  "width": "auto"
+  "width": "100"
 }

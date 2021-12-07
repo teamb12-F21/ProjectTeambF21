@@ -25,15 +25,6 @@
         "forms",
         "thirdScreen",
         "Elements",
-        "lblUsername.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "thirdScreen",
-        "Elements",
         "drpCats.json"
       ]
     },
@@ -70,7 +61,16 @@
         "forms",
         "thirdScreen",
         "Elements",
-        "BtnCal.json"
+        "btnAdd.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "thirdScreen",
+        "Elements",
+        "inptAddCategory.json"
       ]
     }
   ],
@@ -89,7 +89,7 @@
   "onkeypress": "",
   "onresize": "",
   "onshow": "",
-  "openMode": "block",
+  "openMode": "none",
   "parentForm": "",
   "position": "absolute",
   "script": null,

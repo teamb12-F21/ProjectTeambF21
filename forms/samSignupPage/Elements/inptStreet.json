@@ -5,7 +5,7 @@
   "autocapitalize": "",
   "autocomplete": "",
   "autocorrect": "",
-  "backgroundColor": "",
+  "backgroundColor": "#800000",
   "badge": "",
   "badgeAppearance": " badge-info",
   "bottom": "auto",
@@ -21,7 +21,7 @@
   "fontFamily": "",
   "fontSize": "",
   "fontStyle": "",
-  "fontWeight": "",
+  "fontWeight": "800",
   "footer": "",
   "header": "",
   "headerCols": 2,
@@ -32,7 +32,7 @@
   "id": "inptStreet",
   "inputType": "text",
   "inputmode": "",
-  "left": 11,
+  "left": 33,
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -87,5 +87,5 @@
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": "auto"
+  "width": 250
 }

@@ -1,6 +1,6 @@
 {
   "!type": "Label_bs4",
-  "appearance": "primary",
+  "appearance": "danger",
   "backgroundColor": "",
   "borderRadius": "0",
   "bottom": "auto",
@@ -13,8 +13,8 @@
   "expanded_pmp": null,
   "fontFamily": "",
   "fontSize": "",
-  "fontStyle": "",
-  "fontWeight": "",
+  "fontStyle": "italic",
+  "fontWeight": "800",
   "height": "auto",
   "hidden": "",
   "id": "lblToDo",

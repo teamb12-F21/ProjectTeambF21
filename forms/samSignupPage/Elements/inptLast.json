@@ -5,7 +5,7 @@
   "autocapitalize": "",
   "autocomplete": "",
   "autocorrect": "",
-  "backgroundColor": "",
+  "backgroundColor": "#FFD700",
   "badge": "",
   "badgeAppearance": " badge-info",
   "bottom": "auto",
@@ -21,7 +21,7 @@
   "fontFamily": "",
   "fontSize": "",
   "fontStyle": "",
-  "fontWeight": "",
+  "fontWeight": "800",
   "footer": "",
   "header": "",
   "headerCols": 2,
@@ -32,7 +32,7 @@
   "id": "inptLast",
   "inputType": "text",
   "inputmode": "",
-  "left": 11,
+  "left": 35,
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -83,9 +83,9 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-  "top": 81,
+  "top": 85,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": "auto"
+  "width": 250
 }

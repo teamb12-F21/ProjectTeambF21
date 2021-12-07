@@ -12,11 +12,11 @@ let email = inptEmail1.value
       console.log(results)
       if (results.length == 0) // no results were returned by the query
         lblError.value = "Incorrect Email or Password."
-      else ChangeForm(samSignupPage)
+      else ChangeForm(thirdScreen)
 
     }
 }   
 
 btnSignUp.onclick=function(){
-  ChangeForm(thirdScreen)
+  ChangeForm(samSignupPage)
 }

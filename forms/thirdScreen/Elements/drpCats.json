@@ -2,7 +2,7 @@
   "!type": "Dropdown_bs4",
   "align": "",
   "appearance": " btn-secondary",
-  "backgroundColor": "",
+  "backgroundColor": "#FFD700",
   "badge": "",
   "badgeAppearance": " badge-info",
   "blockLevel": "",
@@ -33,7 +33,7 @@
   "icon": "caret",
   "id": "drpCats",
   "items": "Groceries\nKids\nBills\nPets\nMisc",
-  "left": 98,
+  "left": 87,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -63,7 +63,7 @@
   "script": "",
   "size": " btn-md",
   "style": "",
-  "top": 36,
+  "top": 20,
   "value": "Categories",
-  "width": 145
+  "width": 195
 }

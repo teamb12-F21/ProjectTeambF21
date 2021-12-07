@@ -23,40 +23,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "samSignupPage",
-            "samSignupPage.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
             "RyanLoginPage",
             "RyanLoginPage.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "Form1",
-            "Form1.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "Categories",
-            "Categories.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "testAPI",
-            "testAPI.json"
           ]
         },
         {
@@ -71,8 +39,32 @@
           "!type": "External",
           "file": [
             "forms",
+            "samSignupPage",
+            "samSignupPage.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "testAPI",
+            "testAPI.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
             "thirdScreen",
             "thirdScreen.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "yelp",
+            "yelp.json"
           ]
         }
       ],
@@ -95,7 +87,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Categories",
+      "firstform": "RyanLoginPage",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",

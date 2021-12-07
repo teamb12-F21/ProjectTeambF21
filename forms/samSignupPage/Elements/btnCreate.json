@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnCreate",
-  "left": 95,
+  "left": 155,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 404,
+  "top": 402,
   "value": "Create Account",
   "width": "auto"
 }

@@ -14,54 +14,27 @@
       "!type": "External",
       "file": [
         "forms",
-        "listPage",
+        "yelp",
         "Elements",
-        "inptNewItem.json"
+        "txtRes.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "listPage",
+        "yelp",
         "Elements",
-        "btnAdd.json"
+        "btn3screen.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "listPage",
+        "yelp",
         "Elements",
-        "taList.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "listPage",
-        "Elements",
-        "inptDescription.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "listPage",
-        "Elements",
-        "lblMessage.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "listPage",
-        "Elements",
-        "btnShowList.json"
+        "btnRes.json"
       ]
     }
   ],
@@ -71,7 +44,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "listPage",
+  "id": "yelp",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
